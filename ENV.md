@@ -10,4 +10,6 @@ source env/bin/activate
 
 pip3 install --upgrade jupyter matplotlib numpy pandas scipy scikit-learn  
 
+pip3 install --upgrade fastbook
+
 jupyter notebook  
