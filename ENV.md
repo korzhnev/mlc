@@ -19,7 +19,7 @@ jupyter notebook
 pip3 install --upgrade fastbook
 
 # notebook extensions
-pip3 install jupyter_contrib_nbextensions
+pip3 install jupyter_contrib_nbextensions  
 jupyter contrib nbextension install --user
 
 
